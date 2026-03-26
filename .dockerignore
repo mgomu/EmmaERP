@@ -1,0 +1,12 @@
+.git
+.github
+.claude
+dolibarr/.git
+dolibarr/.github
+dolibarr/dev
+dolibarr/doc
+dolibarr/test
+dolibarr/scripts
+*.md
+LICENSE
+ChangeLog
